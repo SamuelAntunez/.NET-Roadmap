@@ -1,0 +1,14 @@
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\Programacion Funcional\bin\Debug\net10.0\Programacion Funcional.exe
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\Programacion Funcional\bin\Debug\net10.0\Programacion Funcional.deps.json
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\Programacion Funcional\bin\Debug\net10.0\Programacion Funcional.runtimeconfig.json
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\Programacion Funcional\bin\Debug\net10.0\Programacion Funcional.dll
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\Programacion Funcional\bin\Debug\net10.0\Programacion Funcional.pdb
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\Programacion Funcional\obj\Debug\net10.0\Programacion Funcional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\Programacion Funcional\obj\Debug\net10.0\Programacion Funcional.AssemblyInfoInputs.cache
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\Programacion Funcional\obj\Debug\net10.0\Programacion Funcional.AssemblyInfo.cs
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\Programacion Funcional\obj\Debug\net10.0\Programacion Funcional.csproj.CoreCompileInputs.cache
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\Programacion Funcional\obj\Debug\net10.0\Programacion Funcional.dll
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\Programacion Funcional\obj\Debug\net10.0\refint\Programacion Funcional.dll
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\Programacion Funcional\obj\Debug\net10.0\Programacion Funcional.pdb
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\Programacion Funcional\obj\Debug\net10.0\Programacion Funcional.genruntimeconfig.cache
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\Programacion Funcional\obj\Debug\net10.0\ref\Programacion Funcional.dll

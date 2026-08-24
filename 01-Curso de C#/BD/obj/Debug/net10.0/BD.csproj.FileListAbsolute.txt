@@ -1,0 +1,14 @@
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\BD\bin\Debug\net10.0\BD.deps.json
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\BD\bin\Debug\net10.0\BD.dll
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\BD\bin\Debug\net10.0\BD.pdb
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\BD\obj\Debug\net10.0\BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\BD\obj\Debug\net10.0\BD.AssemblyInfoInputs.cache
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\BD\obj\Debug\net10.0\BD.AssemblyInfo.cs
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\BD\obj\Debug\net10.0\BD.csproj.CoreCompileInputs.cache
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\BD\obj\Debug\net10.0\BD.dll
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\BD\obj\Debug\net10.0\refint\BD.dll
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\BD\obj\Debug\net10.0\BD.pdb
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\BD\obj\Debug\net10.0\ref\BD.dll
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\BD\bin\Debug\net10.0\BD.runtimeconfig.json
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\BD\obj\Debug\net10.0\BD.csproj.AssemblyReference.cache
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\01-Curso de C#\01-Introduccion a C#\BD\obj\Debug\net10.0\BD.genruntimeconfig.cache

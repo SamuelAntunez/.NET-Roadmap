@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PruebaTecnica Ejercicios/1.0.0": {
+        "runtime": {
+          "PruebaTecnica Ejercicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebaTecnica Ejercicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\Ejercicios Prueba\PruebaTecnica Ejercicios\PruebaTecnica Ejercicios\bin\Debug\net10.0\PruebaTecnica Ejercicios.exe
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\Ejercicios Prueba\PruebaTecnica Ejercicios\PruebaTecnica Ejercicios\bin\Debug\net10.0\PruebaTecnica Ejercicios.deps.json
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\Ejercicios Prueba\PruebaTecnica Ejercicios\PruebaTecnica Ejercicios\bin\Debug\net10.0\PruebaTecnica Ejercicios.runtimeconfig.json
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\Ejercicios Prueba\PruebaTecnica Ejercicios\PruebaTecnica Ejercicios\bin\Debug\net10.0\PruebaTecnica Ejercicios.dll
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\Ejercicios Prueba\PruebaTecnica Ejercicios\PruebaTecnica Ejercicios\bin\Debug\net10.0\PruebaTecnica Ejercicios.pdb
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\Ejercicios Prueba\PruebaTecnica Ejercicios\PruebaTecnica Ejercicios\obj\Debug\net10.0\PruebaTecnica Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\Ejercicios Prueba\PruebaTecnica Ejercicios\PruebaTecnica Ejercicios\obj\Debug\net10.0\PruebaTecnica Ejercicios.AssemblyInfoInputs.cache
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\Ejercicios Prueba\PruebaTecnica Ejercicios\PruebaTecnica Ejercicios\obj\Debug\net10.0\PruebaTecnica Ejercicios.AssemblyInfo.cs
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\Ejercicios Prueba\PruebaTecnica Ejercicios\PruebaTecnica Ejercicios\obj\Debug\net10.0\PruebaTecnica Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\Ejercicios Prueba\PruebaTecnica Ejercicios\PruebaTecnica Ejercicios\obj\Debug\net10.0\PruebaTecnica Ejercicios.dll
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\Ejercicios Prueba\PruebaTecnica Ejercicios\PruebaTecnica Ejercicios\obj\Debug\net10.0\refint\PruebaTecnica Ejercicios.dll
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\Ejercicios Prueba\PruebaTecnica Ejercicios\PruebaTecnica Ejercicios\obj\Debug\net10.0\PruebaTecnica Ejercicios.pdb
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\Ejercicios Prueba\PruebaTecnica Ejercicios\PruebaTecnica Ejercicios\obj\Debug\net10.0\PruebaTecnica Ejercicios.genruntimeconfig.cache
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\Ejercicios Prueba\PruebaTecnica Ejercicios\PruebaTecnica Ejercicios\obj\Debug\net10.0\ref\PruebaTecnica Ejercicios.dll

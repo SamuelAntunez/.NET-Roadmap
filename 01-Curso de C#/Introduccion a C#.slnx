@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="BaseDeDatos/BaseDeDatos.csproj" Id="183d3a9e-a514-43e2-b4eb-37a84cc3cf81" />
+  <Project Path="BD/BD.csproj" Id="be7dbb50-36a3-4865-bcaa-906a3a5fa5c9" />
+  <Project Path="EntityFrameworkSystem/EntityFrameworkSystem.csproj" Id="5de7e456-d14c-4055-bc16-40edc2772b60" />
+  <Project Path="Excepciones/Excepciones.csproj" Id="57b8f3c2-55ae-4889-95fe-e2e9d419de91" />
+  <Project Path="LINQ/LINQ.csproj" Id="80a2d4ff-4e5a-4aaa-a3ff-673cb3078567" />
+  <Project Path="LINQ_JOIN/LINQ_JOIN.csproj" Id="e67a6a7d-44d8-4257-8f18-6467ff79d900" />
+  <Project Path="ListCommonMethods/ListCommonMethods.csproj" />
+  <Project Path="Programacion Funcional/Programacion Funcional.csproj" Id="043563f2-1f2c-49cb-bac8-4021b487e708" />
+  <Project Path="TipoAnonimos/TipoAnonimos.csproj" Id="e03a2c05-7cf9-4ea6-ade3-92f174704c88" />
+  <Project Path="Tuplas/Tuplas.csproj" Id="592f4779-a343-4518-b011-acd1343451f6" />
+  <Project Path="While/While.csproj" />
+</Solution>

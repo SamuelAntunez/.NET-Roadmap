@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{857F7077-6F25-4936-962B-28CBCA2AE305}|Tools\\Tools.csproj|c:\\users\\winteros\\desktop\\programacion\\roadmap .net\\04-patrones de dise\u00F1o en .net\\design pattern\\tools\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857F7077-6F25-4936-962B-28CBCA2AE305}|Tools\\Tools.csproj|solutionrelative:tools\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\Tools\\Log.cs",
+              "RelativeDocumentMoniker": "Tools\\Log.cs",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\Tools\\Log.cs",
+              "RelativeToolTip": "Tools\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T23:52:22.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

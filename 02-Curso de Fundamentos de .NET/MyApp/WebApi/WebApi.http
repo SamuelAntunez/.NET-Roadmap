@@ -1,0 +1,38 @@
+@WebApi_HostAddress = http://localhost:5044
+
+GET {{WebApi_HostAddress}}/api/persons/00000000-0000-0000-0000-000000000000
+Accept: application/json
+
+###
+POST {{WebApi_HostAddress}}/api/persons
+Content-type: application/json
+{
+  "code": "ABC123",
+  "firstName": "Juan",
+  "lastName": "Perez",
+  "email": "juan.perez@example.com",
+  "Phone":"1234568019"
+}
+
+###
+GET {{WebApi_HostAddress}}/api/persons
+Accept: application/json
+
+###
+PUT {{WebApi_HostAddress}}/api/persons/6f7941eb-7965-430d-b4e9-5bf8623143e5
+Content-type: application/json
+{
+  "id": "6f7941eb-7965-430d-b4e9-5bf8623143e5",
+  "firstName": "Samuel",
+  "lastName": "Antunez",
+  "email": "samuel@example.com",
+  "Phone": "432434343"
+}
+
+###
+DELETE {{WebApi_HostAddress}}/api/persons/00000000-0000-0000-0000-000000000000
+
+###
+GET {{WebApi_HostAddress}}/api/persons/code/ABC123
+Accept: application/json
+

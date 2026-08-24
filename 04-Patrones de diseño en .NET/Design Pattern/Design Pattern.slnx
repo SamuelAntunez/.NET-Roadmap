@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Design Pattern/Design Pattern.csproj" />
+  <Project Path="DesignPatternASP/DesignPatternASP.csproj" />
+  <Project Path="Tools/Tools.csproj" />
+</Solution>
