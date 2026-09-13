@@ -1,0 +1,101 @@
+﻿@page "/products/frmproduct"
+@page "/products/frmproduct/{Id:int}"
+@using Frontend.Client
+@using Blazored.FluentValidation
+@inject ApiClient Api
+@inject NavigationManager Nav
+
+
+<h3>Producto</h3>
+
+@if(error is not null)
+{
+    <div class="alert alert-danger">@error</div>
+}
+
+<EditForm Model="productDto" OnValidSubmit="SaveAsync">
+    <FluentValidationValidator/> 
+    <ValidationSummary/>
+
+    <div>
+        <InputNumber @bind-Value="productDto.Id" disabled hidden"></InputNumber>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Nombre</label>
+        <InputText class="form-control" @bind-Value="productDto.Name"></InputText>
+        <ValidationMessage For="@(()=> productDto.Name)"/>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Costo</label>
+        <InputNumber class="form-control" @bind-Value="productDto.Cost"></InputNumber>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Precio</label>
+        <InputNumber class="form-control" @bind-Value="productDto.Price"></InputNumber>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Activo</label>
+        <InputCheckbox class="form-check-input" @bind-Value="productDto.Active"></InputCheckbox>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Marcas</label>
+        <InputSelect class="form-select" @bind-Value="productDto.BrandId">
+            <option value="">Sin marca</option>
+            @foreach(var brand in brands)
+            {
+                <option value="@brand.Id">@brand.Name</option>
+            }
+        </InputSelect>
+    </div>
+    <button class="btn btn-primary" disabled="@isBusy">Guardar</button>
+    <button class="btn btn-secondary ms-2" type="button" disabled>Volver</button>
+</EditForm>
+
+@code {
+    [Parameter] public int? Id { get; set; }
+
+    private bool isBusy;
+    private string? error;
+    private ProductDto productDto = new ProductDto();
+    private IEnumerable<BrandEntity> brands = new List<BrandEntity>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await GetBrands();
+        if (Id != null)
+        {
+            productDto = await Api.GetProductByIdAsync((int)Id);
+        }
+    }
+
+    private async Task GetBrands() => brands = await Api.GetBrandAsync();
+    private async Task SaveAsync()
+    {
+        try
+        {
+            isBusy = true;
+            error = null;
+
+            if (Id == null)
+            {
+                await Api.AddProductAsync(productDto);
+            } 
+            else
+            {
+                await Api.UpdateProductAsync(Id.Value, productDto);
+            }
+
+            Nav.NavigateTo("/products");
+        }catch(Exception ex)
+        {
+            error = ex.Message;
+        }
+        finally
+        {
+            isBusy = false;
+        }
+    }
+
+
+
+}

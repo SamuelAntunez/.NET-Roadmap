@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "swbWo74CMsw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de diseño en .NET\\Design Pattern\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WinterOS\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\WinterOS\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}

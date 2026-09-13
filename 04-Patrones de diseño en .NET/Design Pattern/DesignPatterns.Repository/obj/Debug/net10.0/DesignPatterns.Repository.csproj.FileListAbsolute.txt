@@ -1,0 +1,16 @@
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\04-Patrones de diseño en .NET\Design Pattern\DesignPatterns.Repository\bin\Debug\net10.0\DesignPatterns.Repository.deps.json
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\04-Patrones de diseño en .NET\Design Pattern\DesignPatterns.Repository\bin\Debug\net10.0\DesignPatterns.Repository.dll
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\04-Patrones de diseño en .NET\Design Pattern\DesignPatterns.Repository\bin\Debug\net10.0\DesignPatterns.Repository.pdb
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\04-Patrones de diseño en .NET\Design Pattern\DesignPatterns.Repository\obj\Debug\net10.0\DesignPatterns.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\04-Patrones de diseño en .NET\Design Pattern\DesignPatterns.Repository\obj\Debug\net10.0\DesignPatterns.Repository.AssemblyInfoInputs.cache
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\04-Patrones de diseño en .NET\Design Pattern\DesignPatterns.Repository\obj\Debug\net10.0\DesignPatterns.Repository.AssemblyInfo.cs
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\04-Patrones de diseño en .NET\Design Pattern\DesignPatterns.Repository\obj\Debug\net10.0\DesignPatterns.Repository.csproj.CoreCompileInputs.cache
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\04-Patrones de diseño en .NET\Design Pattern\DesignPatterns.Repository\obj\Debug\net10.0\DesignPatterns.Repository.sourcelink.json
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\04-Patrones de diseño en .NET\Design Pattern\DesignPatterns.Repository\obj\Debug\net10.0\DesignPatterns.Repository.dll
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\04-Patrones de diseño en .NET\Design Pattern\DesignPatterns.Repository\obj\Debug\net10.0\refint\DesignPatterns.Repository.dll
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\04-Patrones de diseño en .NET\Design Pattern\DesignPatterns.Repository\obj\Debug\net10.0\DesignPatterns.Repository.pdb
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\04-Patrones de diseño en .NET\Design Pattern\DesignPatterns.Repository\obj\Debug\net10.0\ref\DesignPatterns.Repository.dll
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\04-Patrones de diseño en .NET\Design Pattern\DesignPatterns.Repository\bin\Debug\net10.0\DesignPatterns.Models.dll
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\04-Patrones de diseño en .NET\Design Pattern\DesignPatterns.Repository\bin\Debug\net10.0\DesignPatterns.Models.pdb
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\04-Patrones de diseño en .NET\Design Pattern\DesignPatterns.Repository\obj\Debug\net10.0\DesignPatterns.Repository.csproj.AssemblyReference.cache
+C:\Users\WinterOS\Desktop\Programacion\Roadmap .NET\04-Patrones de diseño en .NET\Design Pattern\DesignPatterns.Repository\obj\Debug\net10.0\DesignPa.CEA10F0B.Up2Date

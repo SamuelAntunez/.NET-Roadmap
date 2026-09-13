@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Application/Application.csproj" Id="930564b5-463d-43cd-955b-1c1d6838d41d" />
+  <Project Path="Backend/Backend.csproj" Id="6f0a55ec-237b-46a8-a40f-fe86fe01f904" />
+  <Project Path="ConsoleApp/ConsoleApp.csproj" Id="f6277628-796a-4330-8194-11b2d1b59eed" />
+  <Project Path="Data/Data.csproj" Id="9163e991-46e0-43f8-aa1d-74e1cb3f17ee" />
+  <Project Path="Domain/Domain.csproj" Id="bdc56232-ec6d-4b87-8456-9235da90a7fa" />
+  <Project Path="FrontEnd/FrontEnd.csproj" Id="3fbe3ba8-cfdf-46ad-83b6-db0a3ea61732" />
+  <Project Path="Repository/Repository.csproj" Id="b6dd4582-48e9-4d27-a9db-b2c575efb283" />
+</Solution>

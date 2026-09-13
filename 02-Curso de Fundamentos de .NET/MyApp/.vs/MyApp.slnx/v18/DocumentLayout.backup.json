@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\WinterOS\\source\\repos\\MyApp\\",
+  "WorkspaceRootPath": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\02-Curso de Fundamentos de .NET\\MyApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1F43E58-7A5B-433D-AF6F-A9D315F30C73}|WebApi\\WebApi.csproj|c:\\users\\winteros\\source\\repos\\myapp\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A1F43E58-7A5B-433D-AF6F-A9D315F30C73}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1F43E58-7A5B-433D-AF6F-A9D315F30C73}|WebApi\\WebApi.csproj|c:\\users\\winteros\\source\\repos\\myapp\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1F43E58-7A5B-433D-AF6F-A9D315F30C73}|WebApi\\WebApi.csproj|c:\\users\\winteros\\desktop\\programacion\\roadmap .net\\02-curso de fundamentos de .net\\myapp\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1F43E58-7A5B-433D-AF6F-A9D315F30C73}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1F43E58-7A5B-433D-AF6F-A9D315F30C73}|WebApi\\WebApi.csproj|c:\\users\\winteros\\source\\repos\\myapp\\webapi\\endpoints\\personsendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1F43E58-7A5B-433D-AF6F-A9D315F30C73}|WebApi\\WebApi.csproj|c:\\users\\winteros\\desktop\\programacion\\roadmap .net\\02-curso de fundamentos de .net\\myapp\\webapi\\endpoints\\personsendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1F43E58-7A5B-433D-AF6F-A9D315F30C73}|WebApi\\WebApi.csproj|solutionrelative:webapi\\endpoints\\personsendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\winteros\\desktop\\programacion\\roadmap .net\\02-curso de fundamentos de .net\\myapp\\domain\\visitentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\visitentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F43E58-7A5B-433D-AF6F-A9D315F30C73}|WebApi\\WebApi.csproj|c:\\users\\winteros\\desktop\\programacion\\roadmap .net\\02-curso de fundamentos de .net\\myapp\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A1F43E58-7A5B-433D-AF6F-A9D315F30C73}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,39 +30,51 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "VisitEntity.cs",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\02-Curso de Fundamentos de .NET\\MyApp\\Domain\\VisitEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\VisitEntity.cs",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\02-Curso de Fundamentos de .NET\\MyApp\\Domain\\VisitEntity.cs",
+              "RelativeToolTip": "Domain\\VisitEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T03:13:33.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\WinterOS\\source\\repos\\MyApp\\WebApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\02-Curso de Fundamentos de .NET\\MyApp\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\WinterOS\\source\\repos\\MyApp\\WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\02-Curso de Fundamentos de .NET\\MyApp\\WebApi\\Program.cs",
               "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-14T17:37:41.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "WebApi.http",
-              "DocumentMoniker": "C:\\Users\\WinterOS\\source\\repos\\MyApp\\WebApi\\WebApi.http",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\02-Curso de Fundamentos de .NET\\MyApp\\WebApi\\WebApi.http",
               "RelativeDocumentMoniker": "WebApi\\WebApi.http",
-              "ToolTip": "C:\\Users\\WinterOS\\source\\repos\\MyApp\\WebApi\\WebApi.http",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\02-Curso de Fundamentos de .NET\\MyApp\\WebApi\\WebApi.http",
               "RelativeToolTip": "WebApi\\WebApi.http",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-08-14T17:29:09.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-14T17:29:09.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PersonsEndpoints.cs",
-              "DocumentMoniker": "C:\\Users\\WinterOS\\source\\repos\\MyApp\\WebApi\\Endpoints\\PersonsEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\02-Curso de Fundamentos de .NET\\MyApp\\WebApi\\Endpoints\\PersonsEndpoints.cs",
               "RelativeDocumentMoniker": "WebApi\\Endpoints\\PersonsEndpoints.cs",
-              "ToolTip": "C:\\Users\\WinterOS\\source\\repos\\MyApp\\WebApi\\Endpoints\\PersonsEndpoints.cs",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\02-Curso de Fundamentos de .NET\\MyApp\\WebApi\\Endpoints\\PersonsEndpoints.cs",
               "RelativeToolTip": "WebApi\\Endpoints\\PersonsEndpoints.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAAAIEAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwIEAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-14T17:12:28.736Z",
               "EditorCaption": ""

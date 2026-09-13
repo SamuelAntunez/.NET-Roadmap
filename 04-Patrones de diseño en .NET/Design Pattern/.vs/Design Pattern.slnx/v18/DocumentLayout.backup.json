@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1DC2090-F8BB-4DC8-9EF0-2E6B67B38F4B}|Design Pattern\\Design Pattern.csproj|c:\\users\\winteros\\desktop\\programacion\\roadmap .net\\04-patrones de dise\u00F1o en .net\\design pattern\\design pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1DC2090-F8BB-4DC8-9EF0-2E6B67B38F4B}|Design Pattern\\Design Pattern.csproj|solutionrelative:design pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB6FAE7E-74E2-762B-39EA-005B51485B00}|DesignPatternASP\\DesignPatternASP.csproj|c:\\users\\winteros\\desktop\\programacion\\roadmap .net\\04-patrones de dise\u00F1o en .net\\design pattern\\designpatternasp\\strategies\\ibeerstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6FAE7E-74E2-762B-39EA-005B51485B00}|DesignPatternASP\\DesignPatternASP.csproj|solutionrelative:designpatternasp\\strategies\\ibeerstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6FAE7E-74E2-762B-39EA-005B51485B00}|DesignPatternASP\\DesignPatternASP.csproj|c:\\users\\winteros\\desktop\\programacion\\roadmap .net\\04-patrones de dise\u00F1o en .net\\design pattern\\designpatternasp\\strategies\\beercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6FAE7E-74E2-762B-39EA-005B51485B00}|DesignPatternASP\\DesignPatternASP.csproj|solutionrelative:designpatternasp\\strategies\\beercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6FAE7E-74E2-762B-39EA-005B51485B00}|DesignPatternASP\\DesignPatternASP.csproj|c:\\users\\winteros\\desktop\\programacion\\roadmap .net\\04-patrones de dise\u00F1o en .net\\design pattern\\designpatternasp\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6FAE7E-74E2-762B-39EA-005B51485B00}|DesignPatternASP\\DesignPatternASP.csproj|solutionrelative:designpatternasp\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6FAE7E-74E2-762B-39EA-005B51485B00}|DesignPatternASP\\DesignPatternASP.csproj|c:\\users\\winteros\\desktop\\programacion\\roadmap .net\\04-patrones de dise\u00F1o en .net\\design pattern\\designpatternasp\\strategies\\beerwithbrandstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6FAE7E-74E2-762B-39EA-005B51485B00}|DesignPatternASP\\DesignPatternASP.csproj|solutionrelative:designpatternasp\\strategies\\beerwithbrandstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6FAE7E-74E2-762B-39EA-005B51485B00}|DesignPatternASP\\DesignPatternASP.csproj|c:\\users\\winteros\\desktop\\programacion\\roadmap .net\\04-patrones de dise\u00F1o en .net\\design pattern\\designpatternasp\\strategies\\beerstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6FAE7E-74E2-762B-39EA-005B51485B00}|DesignPatternASP\\DesignPatternASP.csproj|solutionrelative:designpatternasp\\strategies\\beerstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6FAE7E-74E2-762B-39EA-005B51485B00}|DesignPatternASP\\DesignPatternASP.csproj|c:\\users\\winteros\\desktop\\programacion\\roadmap .net\\04-patrones de dise\u00F1o en .net\\design pattern\\designpatternasp\\strategies\\formbeerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6FAE7E-74E2-762B-39EA-005B51485B00}|DesignPatternASP\\DesignPatternASP.csproj|solutionrelative:designpatternasp\\strategies\\formbeerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeerContext.cs",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\DesignPatternASP\\Strategies\\BeerContext.cs",
+              "RelativeDocumentMoniker": "DesignPatternASP\\Strategies\\BeerContext.cs",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\DesignPatternASP\\Strategies\\BeerContext.cs",
+              "RelativeToolTip": "DesignPatternASP\\Strategies\\BeerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T12:54:29.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BeerWithBrandStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\DesignPatternASP\\Strategies\\BeerWithBrandStrategy.cs",
+              "RelativeDocumentMoniker": "DesignPatternASP\\Strategies\\BeerWithBrandStrategy.cs",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\DesignPatternASP\\Strategies\\BeerWithBrandStrategy.cs",
+              "RelativeToolTip": "DesignPatternASP\\Strategies\\BeerWithBrandStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T12:35:37.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormBeerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\DesignPatternASP\\Strategies\\FormBeerViewModel.cs",
+              "RelativeDocumentMoniker": "DesignPatternASP\\Strategies\\FormBeerViewModel.cs",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\DesignPatternASP\\Strategies\\FormBeerViewModel.cs",
+              "RelativeToolTip": "DesignPatternASP\\Strategies\\FormBeerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T12:32:39.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BeerStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\DesignPatternASP\\Strategies\\BeerStrategy.cs",
+              "RelativeDocumentMoniker": "DesignPatternASP\\Strategies\\BeerStrategy.cs",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\DesignPatternASP\\Strategies\\BeerStrategy.cs",
+              "RelativeToolTip": "DesignPatternASP\\Strategies\\BeerStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T12:32:59.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\Design Pattern\\Program.cs",
-              "RelativeDocumentMoniker": "Design Pattern\\Program.cs",
-              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\Design Pattern\\Program.cs",
-              "RelativeToolTip": "Design Pattern\\Program.cs",
+              "Title": "IBeerStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\DesignPatternASP\\Strategies\\IBeerStrategy.cs",
+              "RelativeDocumentMoniker": "DesignPatternASP\\Strategies\\IBeerStrategy.cs",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\DesignPatternASP\\Strategies\\IBeerStrategy.cs",
+              "RelativeToolTip": "DesignPatternASP\\Strategies\\IBeerStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T23:27:08.911Z",
+              "WhenOpened": "2026-09-02T12:31:21.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BeerController.cs",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\DesignPatternASP\\Controllers\\BeerController.cs",
+              "RelativeDocumentMoniker": "DesignPatternASP\\Controllers\\BeerController.cs",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\DesignPatternASP\\Controllers\\BeerController.cs",
+              "RelativeToolTip": "DesignPatternASP\\Controllers\\BeerController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T12:28:52.26Z",
               "EditorCaption": ""
             }
           ]

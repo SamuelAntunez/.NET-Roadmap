@@ -1,0 +1,23 @@
+{
+  "runtime": "Net100",
+  "documentGenerator": {
+    "fromDocument": {
+      "url": null,
+      "json": "OpenAPI/swagger.json"
+    }
+  },
+  "codeGenerators": {
+    "openApiToCSharpClient": {
+      "className": "ApiClient",
+      "namespace": "Frontend.Client",
+      "generateClientInterfaces": true,
+      "useBaseUrl": false,
+      "generateBaseUrlProperty": false,
+      "injectHttpClient": true,
+      "disposeHttpClient": false,
+      "generateOptionalParameters": true,
+      "output": "ApiClient.cs",
+      "readResponseAsString": true
+    }
+  }
+}

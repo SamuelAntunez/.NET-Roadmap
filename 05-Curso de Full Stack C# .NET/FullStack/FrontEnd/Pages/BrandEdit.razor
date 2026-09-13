@@ -1,0 +1,66 @@
+﻿@page "/brands/edit/{Id:int}/{RouteName}"
+@using Frontend.Client
+@inject ApiClient Api
+@inject NavigationManager Nav
+
+<h3>Editar Marca</h3>
+
+@if(error is not null)
+{
+    <div class="alert alert-danger">@error</div>
+}
+else
+{
+    <EditForm Model="brandEntity" OnValidSubmit="SaveAsync">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="row align-items-end">
+            <div class="col-auto">
+                <label class="form-label">Id</label>
+                <InputNumber class="form-control" @bind-Value="brandEntity.Id" disabled></InputNumber>
+            </div>
+            <div class="col-auto">
+                <label class="form-label">Nombre</label>
+                <InputText class="form-control" @bind-Value="brandEntity.Name"></InputText>
+            </div>
+            <div class="col-auto">
+                <button class="btn btn-primary" disabled="@isBusy">Actualizar</button>
+            </div>
+        </div>
+    </EditForm>
+}
+
+@code {
+    [Parameter] public int Id { get; set; }
+    [Parameter] public string RouteName { get; set; }
+
+    public bool isBusy;
+    public string? error;
+    private BrandEntity brandEntity = new BrandEntity();
+
+    protected override void OnInitialized()
+    {
+        brandEntity.Id = Id;
+        brandEntity.Name = RouteName;
+    }
+
+    private async Task SaveAsync()
+    {
+        try
+        {
+            isBusy = true;
+            error = null;
+            await Api.UpdateBrandAsync(Id, brandEntity);
+            Nav.NavigateTo("/brands");
+        }catch(Exception ex)
+        {
+            error = ex.Message;
+        }
+        finally
+        {
+            isBusy = false;
+        }
+    }
+
+}

@@ -1,0 +1,140 @@
+﻿@page "/brands"
+@using Frontend.Client
+@inject ApiClient Api
+@inject NavigationManager Nav
+@inject IJSRuntime JS
+
+<h3>Marcas</h3>
+@if(isLoading)
+{
+    <p>Cargando...</p>
+} 
+else if (error is not null){
+    <div class="alert alert-danger">
+        @error
+    </div>
+}
+else
+{
+    <EditForm Model="newBrand" OnValidSubmit="CreateAsync">
+        <DataAnnotationsValidator/>
+        <ValidationSummary/>
+
+        <div class="row align-items-end">
+            <div class="col-auto">
+                <label class="form-label">Nombre</label>
+                <InputText class="form-control" @bind-Value="newBrand.Name"></InputText>
+            </div>
+            <div class="col-auto">
+                <button class="btn btn-primary" disabled="@isBusy">Crear</button>
+            </div>
+        </div>
+    </EditForm>
+    <hr />
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th style="width: 200px;">Acciones</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var b in brands)
+            {
+                <tr>
+                    <td>@b.Id</td>
+                    <td>@b.Name</td>
+                    <td>
+                        <button class="btn btn-sm btn-secondary me-2" @onclick='()=> Nav.NavigateTo($"/brands/edit/{b.Id}/{b.Name}")'>
+                            Editar
+                        </button>
+                        <button class="btn btn-sm btn-danger" @onclick="() => DeleteAsync((int)b.Id)">
+                            Eliminar
+                        </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+
+@code {
+
+    string? error = null;
+    private IEnumerable<BrandEntity> brands = null;
+    private bool isLoading;
+    private bool isBusy;
+    private BrandEntity newBrand = new BrandEntity();
+
+    private async Task<bool> ConfirmAsync(string message) => await JS.InvokeAsync<bool>("confirm", message);
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadAsync();
+    }
+
+    private async Task LoadAsync()
+    {
+        try
+        {
+
+            error = null;
+            isLoading = true;
+            brands = await Api.GetBrandAsync();
+
+
+        }catch(Exception ex)
+        {
+            error = ex.Message;
+        } finally
+        {
+            isLoading = false;
+        }
+    }
+
+    private async Task CreateAsync()
+    {
+        try
+        {
+            isBusy = true;
+            error = null;
+            await Api.AddBrandAsync(newBrand);
+            newBrand = new();
+            await LoadAsync();
+
+        }catch (Exception ex)
+        {
+            error = ex.Message;
+        }
+        finally
+        {
+            isBusy = false;
+        }
+    }
+
+    private async Task DeleteAsync(int id)
+    {
+        if (!await ConfirmAsync($"Eliminar marca {id}?")) return;
+
+        try
+        {
+            isBusy = true;
+            error = null;
+            await Api.DeleteBrandAsync(id);
+            await LoadAsync();
+        }
+        catch (Exception ex)
+        {
+            error = ex.Message;
+        }
+        finally
+        {
+            isBusy = false;
+        }
+    }
+
+}

@@ -1,5 +1,7 @@
 <Solution>
-  <Project Path="Design Pattern/Design Pattern.csproj" />
+  <Project Path="Design Pattern/DesignPattern.csproj" />
   <Project Path="DesignPatternASP/DesignPatternASP.csproj" />
+  <Project Path="DesignPatterns.Models/DesignPatterns.Models.csproj" Id="ae796190-2f57-44a8-ae64-c438af695e0e" />
+  <Project Path="DesignPatterns.Repository/DesignPatterns.Repository.csproj" Id="4acd0efd-1dae-474a-83f1-f559772e2f29" />
   <Project Path="Tools/Tools.csproj" />
 </Solution>

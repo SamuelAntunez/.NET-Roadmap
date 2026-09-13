@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{857F7077-6F25-4936-962B-28CBCA2AE305}|Tools\\Tools.csproj|c:\\users\\winteros\\desktop\\programacion\\roadmap .net\\04-patrones de dise\u00F1o en .net\\design pattern\\tools\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{857F7077-6F25-4936-962B-28CBCA2AE305}|Tools\\Tools.csproj|solutionrelative:tools\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED163463-8CFF-E7E0-D8AE-35648A4FAA16}|Design Pattern\\DesignPattern.csproj|c:\\users\\winteros\\desktop\\programacion\\roadmap .net\\04-patrones de dise\u00F1o en .net\\design pattern\\design pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED163463-8CFF-E7E0-D8AE-35648A4FAA16}|Design Pattern\\DesignPattern.csproj|solutionrelative:design pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Log.cs",
-              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\Tools\\Log.cs",
-              "RelativeDocumentMoniker": "Tools\\Log.cs",
-              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\Tools\\Log.cs",
-              "RelativeToolTip": "Tools\\Log.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\Design Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Design Pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Programacion\\Roadmap .NET\\04-Patrones de dise\u00F1o en .NET\\Design Pattern\\Design Pattern\\Program.cs",
+              "RelativeToolTip": "Design Pattern\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T23:52:22.817Z",
+              "WhenOpened": "2026-09-04T02:04:49.886Z",
               "EditorCaption": ""
             }
           ]
